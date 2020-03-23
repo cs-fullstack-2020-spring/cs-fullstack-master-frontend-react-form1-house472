@@ -1,12 +1,18 @@
+### Overall Score : 4/5
+#### Attempted Problems : 3
+#### Pushing : Consistent
+#### General Comments : Great work Charles!
 # react-forms-1
 
 ### Exercise 1: Basic Form with a Stateful Component
+#### Looks great! Make a habit of clearing out your form fields on submission but not required.
 - Create a new react app called `feelings-app`
 - Create a `AppContainer` component to maintain shared stat
 - Create a new component called `PersonStats`. In `PersonStats`, create a form that will allow the user to input their name, age, and how they feel right now. 
 - Once submitted, display the message: `Hello [NAME]. Your age is [AGE] and you're feeling [FEELING]` below the form. HINT: Use an `inner` property to update a `<div>` 
 
 ### Challenge
+#### Perfect!
 - Create a new react app called `blogger-app`
 - Create a `AppContainer` component to maintain shared state (an array of blog posts)
 - Create a `HeaderComponent` that displays a `H1` header that says `My Blog`
